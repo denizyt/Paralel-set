@@ -1,0 +1,14 @@
+{
+  "name": "@ashsicle/new-york-city-waste-flow",
+  "main": "cae1362b0bf410a3@495.js",
+  "version": "495.0.0",
+  "homepage": "https://observablehq.com/@ashsicle/new-york-city-waste-flow",
+  "author": {
+    "name": "Ashley Louie",
+    "url": "https://observablehq.com/@ashsicle"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
